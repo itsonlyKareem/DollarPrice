@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">DollarPrice</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="Spinner_items">
+        <item>الدولار الأمريكي</item>
+        <item>اليورو</item>
+        <item>الريال السعودي</item>
+        <item>الدرهم الإماراتي</item>
+        <item>الدينار الكويتي</item>
+        <item>الريال القطري</item>
+    </string-array>
+    <string name="title_activity_news_page">NewsPage</string>
+
+    <string-array name="calc_spinner_items">
+        <item> US Dollar</item>
+    </string-array>
+    <string-array name="currencies_list">
+        <item>Russian Ruble</item>
+    </string-array>
+    <string name="hello_world">Hello Square World!</string>
+    <string-array name="currenciesArabic">
+        <item>الروبل الروسي</item>
+        <item>دولار ترينيدادي</item>
+        <item>روبية نيبالية</item>
+        <item>ريـال قطري</item>
+        <item>كورونا دانيمركية</item>
+        <item>بولا بوتسوانية</item>
+        <item>روبية سريلانكية</item>
+        <item>دولار بوروني</item>
+        <item>كورونا نرويجية</item>
+        <item>دولار تايواني جديد</item>
+        <item>زلوتي بولندي</item>
+        <item>جنيه استرليني</item>
+        <item>تينج كازاخستاني</item>
+        <item>روبية باكستانية</item>
+        <item>دولار سينغافوري</item>
+        <item>فورينت مجري</item>
+        <item>بيسو مكسيكي</item>
+        <item>دولار كندي</item>
+        <item>بوليفار فنزويلي</item>
+        <item>درهم إماراتي</item>
+        <item>دينار بحريني</item>
+        <item>دولار أسترالي</item>
+        <item>ريـال سعودي</item>
+        <item>كرونا سويدية</item>
+        <item>يوان صيني</item>
+        <item>ليف بلغاري</item>
+        <item>راند جنوب أفريقي</item>
+        <item>يون كوريا الجنوبية</item>
+        <item>دولار هونج كونج</item>
+        <item>دولار نيوزيلاندي</item>
+        <item>بيسو كولومبي</item>
+        <item>بيسو شيلي</item>
+        <item>كرونا آيسلندي</item>
+        <item>ريـال إيراني</item>
+        <item>ريـال عماني</item>
+        <item>جنيه مصري</item>
+        <item>رينجيت ماليزي</item>
+        <item>ريـال برازيلي</item>
+        <item>روبية إندونيسية</item>
+        <item>روبية موريشيوس</item>
+        <item>كونا كرواتية</item>
+        <item>روبية هندية</item>
+        <item>بيسو أرجنتيني</item>
+        <item>يورو</item>
+        <item>فرانك سويسري</item>
+        <item>بيسو فليبيني</item>
+        <item>دينار كويتي</item>
+        <item>كورونا تشيكية</item>
+        <item>بات تايلاندي</item>
+        <item>ليرة تركية</item>
+        <item>ين ياباني</item>
+        <item>دينار ليبي</item>
+        <item>نيو ليو روماني</item>
+
+    </string-array>
+</resources>

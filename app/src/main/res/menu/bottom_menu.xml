@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="الأسعار"
+        android:id="@+id/pricesFragment"
+        android:icon="@drawable/ic_money"/>
+    <item android:title="الحاسبة"
+        android:id="@+id/calculatorFragment"
+        android:icon="@drawable/ic_calculator"/>
+    <item android:title="الذهب"
+        android:id="@+id/goldFragment"
+        android:icon="@drawable/ic_gold"/>
+    <item android:title="الأخبار"
+        android:id="@+id/newsFragment"
+        android:icon="@drawable/ic_news"/>
+    <item android:title="الإعدادات"
+        android:id="@+id/settingsFragment"
+        android:icon="@drawable/ic_settings"/>
+</menu>

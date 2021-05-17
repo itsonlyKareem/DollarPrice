@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/my_nav"
+    app:startDestination="@id/pricesFragment">
+
+    <fragment
+        android:id="@+id/pricesFragment"
+        android:name="com.itrex.dollarprice.pricesFragment"
+        android:label="Prices"
+        tools:layout="@layout/fragment_prices" />
+    <fragment
+        android:id="@+id/calculatorFragment"
+        android:name="com.itrex.dollarprice.calculatorFragment"
+        android:label="Calculator"
+        tools:layout="@layout/fragment_calculator" />
+    <fragment
+        android:id="@+id/goldFragment"
+        android:name="com.itrex.dollarprice.goldFragment"
+        android:label="Gold"
+        tools:layout="@layout/fragment_gold" />
+    <fragment
+        android:id="@+id/newsFragment"
+        android:name="com.itrex.dollarprice.newsFragment"
+        android:label="News"
+        tools:layout="@layout/fragment_news" />
+    <fragment
+        android:id="@+id/settingsFragment"
+        android:name="com.itrex.dollarprice.settingsFragment"
+        android:label="Settings"
+        tools:layout="@layout/fragment_settings" />
+</navigation>
